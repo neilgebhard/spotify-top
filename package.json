@@ -1,0 +1,12 @@
+{
+  "author": "Neil Gebhard",
+  "name": "spotify-top",
+  "description": "A Spotify web app to discover your most played artists and tracks",
+  "version": "0.0.1",
+  "dependencies": {
+    "cookie-parser": "1.3.2",
+    "express": "~4.0.0",
+    "querystring": "~0.2.0",
+    "request": "~2.34.0"
+  }
+}
